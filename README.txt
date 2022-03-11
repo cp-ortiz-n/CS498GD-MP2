@@ -4,7 +4,7 @@ Game Level Goal: In this game you will be collecting all of the coins in the map
 
 New Game Mechanic: Double Jump (Spacebar twice)
 
-Updated Mechanic: Flight (Press 'F' to fly, and you can now fly whenever, no need to first land before taking flight again!
+Updated Mechanic: Flight Hold 'Left Shift' to fly and release 'Left Shift' to stop flying.
 
 New Enemy: Turret (This enemy will continously shoot projectiles are you from across the map, always keeping track of you! Try your best to either destroy the turret, or keep collecting the coins while evading its projectiles! Nowhere is safe as these projectiles can go through walls! *Inspired by Minecraft's Vex mob*)
 
